@@ -1,7 +1,7 @@
 title : Elementary - Jekyll Blog Theme
-name: 'Elementary Jekyll Theme'
+name: 'Elementary Jekyll Blog Theme'
 description: 'Simple, light weight, responsive jekyll theme for hackers'
-
+baseurl: /elementary-blog
 markdown: kramdown
 highlighter: rouge
 javascript_enabled: true
